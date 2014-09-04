@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>files/styles/style-light.css</file>
+        <file>files/styles/style-dark.css</file>
+        <file>components/SpeedIndicator.qml</file>
+        <file>components/AltitudeIndicator.qml</file>
+        <file>components/CompassIndicator.qml</file>
+        <file>components/PitchIndicator.qml</file>
+        <file>components/RollPitchIndicator.qml</file>
+        <file>resources/components/rollPitchIndicator/artGroundSky.svg</file>
+        <file>resources/components/rollPitchIndicator/background.png</file>
+        <file>resources/components/rollPitchIndicator/compass.svg</file>
+        <file>resources/components/rollPitchIndicator/crossHair.svg</file>
+        <file>resources/components/rollPitchIndicator/needle.png</file>
+        <file>resources/components/rollPitchIndicator/overlay.png</file>
+        <file>resources/components/rollPitchIndicator/quit.png</file>
+        <file>resources/components/rollPitchIndicator/background_old.png</file>
+        <file>resources/components/rollPitchIndicator/compassIndicator.svg</file>
+        <file>resources/components/rollPitchIndicator/needle_shadow.png</file>
+        <file>resources/components/rollPitchIndicator/pitchGraticule.png</file>
+        <file>resources/components/rollPitchIndicator/rollGraticule.svg</file>
+        <file>resources/components/rollPitchIndicator/rollPointer.svg</file>
+        <file>PFD.qml</file>
+    </qresource>
+</RCC>
